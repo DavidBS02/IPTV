@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg", WIN SPORTS+
+#EXTINF:0 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg", WIN SPORTS+
 https://cbado.pricesaskeloadsc.com/winplusonline1/tracks-v1a1/mono.m3u8?token=564c14d7b544aef52cd52142ce94f356b2894b00-fc-1733230020-1733194020
