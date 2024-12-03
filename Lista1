@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg", WIN SPORTS+
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg", WIN SPORTS+
 https://a2lja3m.la10tv.com/winsports2/tracks-v1a1/mono.m3u8?token=d293fba668f2c5d6c6da6b8ee71915b7aaeac0b6-22-1733231289-1733195289
